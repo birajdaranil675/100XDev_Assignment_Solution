@@ -1,0 +1,2 @@
+What is ECMAScript?
+- It is the standard for writting the 
