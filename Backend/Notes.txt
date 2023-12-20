@@ -38,3 +38,58 @@ What HTTP Protocol?
 - Hypertext Transfer Protocol
 - It is the standard way to communicate, in which one machine interact with other machine.
 - HTTP lets API and UI communicate each other.
+
+
+What happens in your browser when you hit any url?
+- browser parse the url.
+- Does a DNS lookup (convert google.com to ip)
+- Establish a connection to the IP(does handshake)
+
+
+What is DNS(Domain Name Service) resolution?
+- URLs are just like contact in your phone
+- In the end they map to an ip.
+- if you ever buy a url of your own, you will need to point it to the ip of your server.
+
+
+What are the common http request?
+- GET
+- POST
+- PUT
+- DELETE
+
+what are the common status codes the backend responds with?
+- 200- Everything is OK(call is successful)
+- 404- Page/route not found
+- 403- Authentication issues
+- 500- Internal server error
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
