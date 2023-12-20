@@ -1,2 +1,40 @@
 What is ECMAScript?
-- It is the standard for writting the 
+- ECMAScript (or ES) is a scripting-language specification standardized by Ecma International in the ECMA-262 and ISO/IEC 16262 standards. 
+- It is best known as a JavaScript standard intended to ensure the interoperability of web pages across different web browsers. 
+- It is widely used for client-side scripting in web browsers, and it is also used for server-side scripting with Node.js. 
+- ECMAScript is the successor to JavaScript, and it is backward-compatible with most JavaScript code.
+- ECMAScript 2023 is the latest version of the specification, which was released in June 2022. 
+- It includes a number of new features, such as support forBigInt, which is a new numeric type that can represent integers of arbitrary size.
+- ECMAScript is a powerful and flexible language that can be used to create a wide variety of applications. 
+- It is a good choice for both beginners and experienced programmers.  
+
+
+What is JavaScript?
+- JavaScript is a high-level, interpreted programming language. 
+- It is one of the three core technologies of the World Wide Web, along with HTML and CSS. 
+- JavaScript is used to make web pages interactive and dynamic, and to provide functionality for a wide range of web applications.
+
+
+What is Node.js?
+- Node.js is an open-source, cross-platform JavaScript runtime environment that executes JavaScript code outside of a browser. 
+- It is built on Chrome's V8 JavaScript engine and uses an event-driven, non-blocking I/O model that makes it lightweight and efficient. 
+- Node.js is commonly used for developing web applications, but it can also be used for a variety of other tasks, such as command-line tools, 
+  data processing, and server-side development.
+
+
+What is Bun?
+- Bun is a JavaScript runtime, package manager, test runner, and bundler built from scratch using the Zig programming language. 
+- It was designed by Jarred Sumner as a drop-in replacement for Node.js. 
+- Bun uses JavaScriptCore as the JavaScript engine, unlike Node.js and Deno, which both use V8.
+
+What can you do with Node.js?
+1. Create command line interfaces.
+2. Create a video player
+3. create a game.
+4. Create an HTTP Server.
+
+
+What HTTP Protocol?
+- Hypertext Transfer Protocol
+- It is the standard way to communicate, in which one machine interact with other machine.
+- HTTP lets API and UI communicate each other.
